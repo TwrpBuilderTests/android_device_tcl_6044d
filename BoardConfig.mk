@@ -33,3 +33,4 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 include $(LOCAL_PATH)/kernel.mk
 include device/generic/twrpbuilder/BoardConfig32.mk
 LZMA_RAMDISK_TARGETS := recovery
+# do i have write access
